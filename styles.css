@@ -6,6 +6,11 @@
     display: block;
 }
 
+a:visited{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 #header-nav{
     display: flex;
     justify-content: flex-end;
