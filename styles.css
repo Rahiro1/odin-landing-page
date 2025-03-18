@@ -77,3 +77,28 @@ h1 {
     width: 100px;
     height: 30px;
 }
+
+#quote-div{
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote{
+    display: block;
+    font: 36px light italic #1F2937;
+    width: 600px;
+    margin:auto;
+    margin-top: 60px;
+
+}
+
+.quote-attribution{
+    display: block;
+    font: 36px #1F2937;
+    font-weight: 900;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    text-align: right;
+}
