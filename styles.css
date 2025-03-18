@@ -128,5 +128,23 @@ h1 {
     display: block;
     width: 100px;
     height: 100px;
-    
+}
+
+#call-to-action-div{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#cta-highlight-div{
+    background-color: #3882F6;
+    color: #f9faf8;
+    border-radius: 25px;
+    width: 80%;
+    height: 100px;
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    padding-left: 40px;
+    gap: 40px;
 }
