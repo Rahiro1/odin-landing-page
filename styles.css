@@ -81,6 +81,8 @@ h1 {
 #quote-div{
     align-items: center;
     background-color: #E5E7EB;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .quote{
@@ -101,4 +103,30 @@ h1 {
     margin-right: auto;
     margin-bottom: 60px;
     text-align: right;
+}
+
+#rnd-info-div{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#info-flexbox{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+}
+
+#rnd-info-heading{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.info-img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    
 }
